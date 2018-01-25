@@ -1,0 +1,58 @@
+name: TBans
+main: ru.foxseasha.tban.Main
+author: FoxSeaSha
+version: 1.0
+softdepend: [PermisionsEx]
+commands:
+    ban:
+    tempban:
+        aliases: [tban]
+    unban:
+    banip:
+    tempbanip:
+        aliases: [tbanip]
+    unbanip:
+    mute:
+    tempmute:
+        aliases: [tmute]
+    unmute:
+    kick:
+    ts:
+        aliases: [wsearch]
+    tb:
+        aliases: [tban]
+permisions:
+    TBan.offline:
+    TBan.commands.ban:
+    TBan.commands.tempban:
+    TBan.commands.unban:
+    TBan.commands.banip:
+    TBan.commands.tempbanip:
+    TBan.commands.unbanip:
+    TBan.commands.mute:
+    TBan.commands.tempmute:
+    TBan.commands.unmute:
+    TBan.commands.kick:
+    TBan.commands.ws:
+    TBan.commands.wb:
+    TBan.bypass.a.ban:
+    TBan.bypass.a.tempban:
+    TBan.bypass.a.banip:
+    TBan.bypass.a.tempbanip:
+    TBan.bypass.a.mute:
+    TBan.bypass.a.tempmute:
+    TBan.bypass.a.kick:
+    TBan.bypass.b.ban:
+    TBan.bypass.b.tempban:
+    TBan.bypass.b.banip:
+    TBan.bypass.b.tempbanip:
+    TBan.bypass.b.mute:
+    TBan.bypass.b.tempmute:
+    TBan.bypass.b.kick:
+    TBan.override.ban:
+    TBan.override.tempban:
+    TBan.override.banip:
+    TBan.override.tempbanip:
+    TBan.override.mute:
+    TBan.override.tempmute:
+    TBan.override.kick:
